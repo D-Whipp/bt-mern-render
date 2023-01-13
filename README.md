@@ -4,7 +4,7 @@
 
 ## LEARNING | [Udemy Course](https://www.udemy.com/course/mern-stack-front-to-back/)
 
-![app-image](./client/src/img/app-screenshot.png)
+![app-image](./root/client/src/img/app-screenshot.png)
 
 ## Purpose
 
